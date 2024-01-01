@@ -1,7 +1,7 @@
 # Guess The Number
 
 ### Todo
-- [ ] Start again if program is done.
+- [x] Start again if program is done.
 
 ***
 ### Tech Stack
