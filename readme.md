@@ -1,4 +1,10 @@
-# Guess The Number
+# Guess The Number 
+
+Number guessing is a game where the user will guess the number selected by the computer. Simply put, if the user successfully guesses the number, the user will win.
+
+### Rules
+- Chance = 3
+- Input between 1 <= n <= 10
 
 ### Todo
 - [x] Start again if program is done.
